@@ -1,6 +1,6 @@
 {
   "name": "fs-app",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "Create Full Stack JavaScript App",
   "keywords": [
     "node",
@@ -13,12 +13,12 @@
   "publishConfig": {
     "tag": "next"
   },
-  "homepage": "https://github.com/maxim-andrews/full-stack-js",
+  "homepage": "https://github.com/full-stack-js/fullstack-js",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxim-andrews/full-stack-js.git"
+    "url": "git+https://github.com/full-stack-js/fullstack-js.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
